@@ -1,0 +1,33 @@
+.container{
+    border: 2px solid black;
+    width: 450px;
+    height: 430px;
+    margin: 40px auto;
+    padding: 15px;
+    background-color: rgb(54, 53, 53);
+    border-radius: 20px;
+    
+}
+.input{
+    box-sizing: border-box;
+    padding: 15px;
+    border-radius: 10px;
+    width:100%;
+    outline: none;
+    margin-bottom: 20px;
+    font-weight: bolder;
+    font-size: 32px;
+}
+.sub_container{
+       display: flex;
+       justify-content: space-between;
+       
+}
+button{
+    font-size: 35px;
+    width: 70px;
+    height: 60px;
+    border-radius: 10px;
+    border: none;
+    margin: 5px;
+}
